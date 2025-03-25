@@ -1,0 +1,23 @@
+# Core Python Libraries
+PyQt5==5.15.7
+numpy==1.22.3
+pandas==1.4.2
+torch==1.11.0
+torchvision==0.12.0
+
+# Backend Processing
+scikit-learn==1.1.1
+pillow==9.1.0
+python-magic==0.4.27  # For advanced file type detection
+
+# Logging and Utilities
+logging==0.5.1.2
+
+# AI/ML Models
+transformers==4.19.2  # BERT/LSTM support
+timm==0.5.4  # Image classification models
+
+# Development and Testing
+pytest==7.1.2
+flake8==4.0.1
+mypy==0.950
