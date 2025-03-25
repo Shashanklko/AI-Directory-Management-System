@@ -25,7 +25,7 @@ AI Directory Manager is an intelligent file organization tool that uses AI-power
 ## Usage
 Run the application:
 ```bash
-python gui/main.py
+python -m gui.main
 ```
 
 ## Project Structure
