@@ -10,10 +10,12 @@ AI Directory Manager is an intelligent file organization tool that uses AI-power
 - 🛡️ Safe File Management
 
 ## Prerequisites
-- Python 3.8+
-- PyQt5
-- PyTorch
+- Python 3.10
+- PyQt5/PyQt6
+- PyTorch 
 - scikit-learn
+- Pandas
+- Tensorflow
 
 ## Installation
 1. Clone the repository
